@@ -1,4 +1,7 @@
-""" Select N random elements from the Italian wines list. Ensure they are always the same ones """
+""" Select N random elements from the Italian wines list. Ensure they are always the same ones 
+   NB: I have chosen to use Stanford's Stanza NLP modules to generate the keywords 
+   but you are free to use whatever model and strategy to generate your own from the description
+"""
 
 import random
 import json
