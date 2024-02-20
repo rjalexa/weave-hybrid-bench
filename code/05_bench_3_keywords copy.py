@@ -70,7 +70,7 @@ def main():
     alpha_values_list = [
         i / 10.0 for i in range(11)
     ]  # hybryd search alpha values to test
-    benchfn = f"resources/italian-wines-{benchmark_size}-all-keywords-bench.json"  # Ensure this path is correct
+    benchfn = f"resources/italian-wines-{benchmark_size}-3-keywords-bench.json"  # Ensure this path is correct
 
     with open(benchfn, "r", encoding="utf-8") as file:
         data = json.load(file)
@@ -216,7 +216,7 @@ def main():
     plt.xticks(
         alphas_indices, alphas_sorted, rotation=45
     )  # Set x-ticks to show alpha values
-    plt.legend(loc="lower left")
+    plt.legend(loc="upper left")
     plt.grid(True)
 
     # Adding the annotation below the Alpha label
@@ -253,7 +253,7 @@ def main():
     )
 
     # Save the plot to a file
-    plt.savefig("resources/hybrid_search_all-keywords_benchmark.png")
+    plt.savefig("resources/hybrid_search_3-keywords_benchmark.png")
     # Display the plot
     plt.show()
 

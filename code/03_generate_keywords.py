@@ -41,7 +41,7 @@ for one_wine in selected_wines:
     keywords_benchmark.append({"title": one_wine["title"], "keywords": keywords})
 
 # write the benchmark to file
-benchfn = f"resources/italian-wines-{benchmark_size}-keywords-bench.json"
+benchfn = f"resources/italian-wines-{benchmark_size}-all-keywords-bench.json"
 
 with open(benchfn, "w", encoding="utf-8") as f:
     json.dump(keywords_benchmark, f, ensure_ascii=False)

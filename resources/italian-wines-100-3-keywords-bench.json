@@ -1,0 +1,802 @@
+[
+    {
+        "title": "Masottina NV Brut  (Prosecco Treviso)",
+        "keywords": [
+            "apple",
+            "Aromas",
+            "perlage"
+        ]
+    },
+    {
+        "title": "Bava 2010 Scarrone  (Barolo)",
+        "keywords": [
+            "oak",
+            "stand",
+            "'s"
+        ]
+    },
+    {
+        "title": "Padelletti 2011  Rosso di Montalcino",
+        "keywords": [
+            "palate",
+            "spices",
+            "delivers"
+        ]
+    },
+    {
+        "title": "Moccagatta 2012 Basarin  (Barbaresco)",
+        "keywords": [
+            "resin",
+            "vanilla",
+            "plum"
+        ]
+    },
+    {
+        "title": "Michele Chiarlo 2009 Reyna  (Barbaresco)",
+        "keywords": [
+            "quality",
+            "aromas",
+            "followed"
+        ]
+    },
+    {
+        "title": "Feudi di San Gregorio 2009  Primitivo di Manduria",
+        "keywords": [
+            "mouthfeel",
+            "offering",
+            "ruby"
+        ]
+    },
+    {
+        "title": "Barone Ricasoli 2005 Riserva Rocca Guicciarda  (Chianti Classico)",
+        "keywords": [
+            "delivers",
+            "spice",
+            "has"
+        ]
+    },
+    {
+        "title": "Ressia 2009 Oro Canova Riserva  (Barbaresco)",
+        "keywords": [
+            "dried",
+            "cherry",
+            "cut"
+        ]
+    },
+    {
+        "title": "Col d'Orcia 2005 Olmaia Cabernet Sauvignon (Sant'Antimo)",
+        "keywords": [
+            "helps",
+            "leather",
+            "forest"
+        ]
+    },
+    {
+        "title": "Pietro Beconcini 2011 Vigna Le Nicchie Tempranillo (Toscana)",
+        "keywords": [
+            "nutmeg",
+            "dried",
+            "tannins"
+        ]
+    },
+    {
+        "title": "Capezzana 2009 Ghiaie della Furba Red (Toscana)",
+        "keywords": [
+            "clove",
+            "fruit",
+            "pepper"
+        ]
+    },
+    {
+        "title": "Tenuta Olim Bauda 2008 I Boschi Chardonnay (Piedmont)",
+        "keywords": [
+            "grips",
+            "fruit",
+            "shows"
+        ]
+    },
+    {
+        "title": "Paolo Manzone 2011 del Comune di Serralunga d'Alba  (Barolo)",
+        "keywords": [
+            "cherry",
+            "aromas",
+            "nose"
+        ]
+    },
+    {
+        "title": "Elio Grasso 2010 Vigna Martina  (Barbera d'Alba)",
+        "keywords": [
+            "mint",
+            "fragrance",
+            "pepper"
+        ]
+    },
+    {
+        "title": "Cipriana 2008 San Martino  (Bolgheri Superiore)",
+        "keywords": [
+            "offers",
+            "suggest",
+            "tones"
+        ]
+    },
+    {
+        "title": "Cantine Astroni 2015 Imperatrice Falanghina (Campi Flegrei)",
+        "keywords": [
+            "spring",
+            "blossom",
+            "lemon"
+        ]
+    },
+    {
+        "title": "Le Macchiole 2010 Messorio Merlot (Toscana)",
+        "keywords": [
+            "milk",
+            "cherry",
+            "nose"
+        ]
+    },
+    {
+        "title": "Gian Piero Marrone 2011 Riserva  (Barbaresco)",
+        "keywords": [
+            "shows",
+            "structured",
+            "Let"
+        ]
+    },
+    {
+        "title": "Tiziano Mazzoni 2011 Dei Mazzoni  (Ghemme)",
+        "keywords": [
+            "berry",
+            "focused",
+            "framework"
+        ]
+    },
+    {
+        "title": "Corte Giara 2016  Soave",
+        "keywords": [
+            "apple",
+            "finish",
+            "acidity"
+        ]
+    },
+    {
+        "title": "Le Grascete 2009 Grale  (Bolgheri)",
+        "keywords": [
+            "touch",
+            "olive",
+            "wine"
+        ]
+    },
+    {
+        "title": "Rizzi 2012  Barbera d'Alba",
+        "keywords": [
+            "floor",
+            "palate",
+            "tilled"
+        ]
+    },
+    {
+        "title": "Castellare di Castellina 2005 Coniale Cabernet Sauvignon (Toscana)",
+        "keywords": [
+            "cherry",
+            "followed",
+            "oak"
+        ]
+    },
+    {
+        "title": "Bellussi NV Enrico Brut  (Prosecco)",
+        "keywords": [
+            "tones",
+            "wine",
+            "flint"
+        ]
+    },
+    {
+        "title": "La Spinetta 2012 Vigneto Bordini  (Barbaresco)",
+        "keywords": [
+            "sage",
+            "mouthfeel",
+            "forest"
+        ]
+    },
+    {
+        "title": "Collemattoni 2005  Brunello di Montalcino",
+        "keywords": [
+            "stand",
+            "notes",
+            "tobacco"
+        ]
+    },
+    {
+        "title": "Carpen\u00e8 Malvolti NV Cuv\u00e9e Oro Dry  (Prosecco di Conegliano)",
+        "keywords": [
+            "mouth",
+            "shadings",
+            "texture"
+        ]
+    },
+    {
+        "title": "Cantine Lenotti di Lenotti 2009 Le Crosare  (Valpolicella Classico Superiore Ripasso)",
+        "keywords": [
+            "toasted",
+            "cassis",
+            "fermentation"
+        ]
+    },
+    {
+        "title": "Rivetto 2012 C\u00e8 Vanin  (Barbaresco)",
+        "keywords": [
+            "prune",
+            "toasted",
+            "aromas"
+        ]
+    },
+    {
+        "title": "Castello d'Albola 2013 Acciaiolo Red (Toscana)",
+        "keywords": [
+            "aromas",
+            "star",
+            "delivers"
+        ]
+    },
+    {
+        "title": "Fornacina 2007 Riserva  (Brunello di Montalcino)",
+        "keywords": [
+            "structured",
+            "change",
+            "spice"
+        ]
+    },
+    {
+        "title": "Diadema 2012 D'Amare White (Toscana)",
+        "keywords": [
+            "aromas",
+            "finishes",
+            "wine"
+        ]
+    },
+    {
+        "title": "Monte del Fr\u00e1 2002 Monastero Passito White (Veneto)",
+        "keywords": [
+            "wine",
+            "hint",
+            "balanced"
+        ]
+    },
+    {
+        "title": "Rivera 2007 Fedora White (Castel del Monte)",
+        "keywords": [
+            "lunchtime",
+            "backed",
+            "grapes"
+        ]
+    },
+    {
+        "title": "Tenuta delle Terre Nere 2008 Santo Spirito  (Etna)",
+        "keywords": [
+            "farmers",
+            "eruptions",
+            "mix"
+        ]
+    },
+    {
+        "title": "Colterenzio 2011 Prail Sauvignon (Alto Adige)",
+        "keywords": [
+            "aromas",
+            "summer",
+            "summer"
+        ]
+    },
+    {
+        "title": "Caparra & Siciliani 2014 Le Formelle Rosato (Cir\u00f2)",
+        "keywords": [
+            "palate",
+            "woodland",
+            "strawberry"
+        ]
+    },
+    {
+        "title": "Grotta del Sole 2012 Piedirosso (Campi Flegrei)",
+        "keywords": [
+            "offers",
+            "pepper",
+            "pizza"
+        ]
+    },
+    {
+        "title": "Gigi Rosso 2013 Trecomuni  (Barolo)",
+        "keywords": [
+            "Drink",
+            "palate",
+            "camphor"
+        ]
+    },
+    {
+        "title": "Di Filippo 2008  Sagrantino di Montefalco",
+        "keywords": [
+            "flavors",
+            "opens",
+            "vanilla"
+        ]
+    },
+    {
+        "title": "Ascheri 2012 Sorano  (Barolo)",
+        "keywords": [
+            "tannins",
+            "star",
+            "hint"
+        ]
+    },
+    {
+        "title": "Corte Pavone 2008  Rosso di Montalcino",
+        "keywords": [
+            "meat",
+            "drinking",
+            "overtones"
+        ]
+    },
+    {
+        "title": "Il Cavaliere 2013 Pinot Grigio (Friuli Grave)",
+        "keywords": [
+            "carry",
+            "lead",
+            "wine"
+        ]
+    },
+    {
+        "title": "Podere Le Ripi 2010 Lupi e Sirene Riserva  (Brunello di Montalcino)",
+        "keywords": [
+            "laced",
+            "tobacco",
+            "concentrated"
+        ]
+    },
+    {
+        "title": "Barone Pizzini 2012 Ros\u00e9 Pinot Nero (Franciacorta)",
+        "keywords": [
+            "sparkler",
+            "offers",
+            "texture"
+        ]
+    },
+    {
+        "title": "Bortolomiol 2016 Prior  (Valdobbiadene Prosecco Superiore)",
+        "keywords": [
+            "apple",
+            "flower",
+            "waft"
+        ]
+    },
+    {
+        "title": "Bellenda NV Col di Luna Extra Dry  (Prosecco del Veneto)",
+        "keywords": [
+            "almond",
+            "aromas",
+            "personality"
+        ]
+    },
+    {
+        "title": "Cantina del Nebbiolo 2010 Cannubi Boschis  (Barolo)",
+        "keywords": [
+            "aromas",
+            "fruit",
+            "offers"
+        ]
+    },
+    {
+        "title": "Bel Colle 2011 Monvigliero  (Barolo)",
+        "keywords": [
+            "firm",
+            "Truffle",
+            "tannins"
+        ]
+    },
+    {
+        "title": "Pecchenino 2012 Bricco Botti  (Dogliani Superiore)",
+        "keywords": [
+            "spice",
+            "structured",
+            "note"
+        ]
+    },
+    {
+        "title": "La Poderina 2007 Poggio Abate Riserva  (Brunello di Montalcino)",
+        "keywords": [
+            "spice",
+            "wine",
+            "mouth"
+        ]
+    },
+    {
+        "title": "Sommariva NV Brut  (Prosecco di Conegliano)",
+        "keywords": [
+            "peach",
+            "dose",
+            "notes"
+        ]
+    },
+    {
+        "title": "Pico Maccario 2007 Lavignone  (Barbera d'Asti)",
+        "keywords": [
+            "one",
+            "vintage",
+            "delivers"
+        ]
+    },
+    {
+        "title": "Pasquale Pelissero 2012 Bricco San Giuliano  (Barbaresco)",
+        "keywords": [
+            "tannins",
+            "structured",
+            "grilled"
+        ]
+    },
+    {
+        "title": "Paolo Scavino 2009 Rocche dell'Annunziata Riserva  (Barolo)",
+        "keywords": [
+            "pipe",
+            "freshness",
+            "tannins"
+        ]
+    },
+    {
+        "title": "Principi di Spadafora 2008 Schietto Cabernet Sauvignon (Sicilia)",
+        "keywords": [
+            "cooked",
+            "tobacco",
+            "prune"
+        ]
+    },
+    {
+        "title": "Le Pianelle 2013 Al Posto dei Fiori Rosato Red (Coste della Sesia)",
+        "keywords": [
+            "backdrop",
+            "berry",
+            "boasts"
+        ]
+    },
+    {
+        "title": "Zisola 2008 Doppiozeta Red (Noto)",
+        "keywords": [
+            "fruit",
+            "fudge",
+            "chocolate"
+        ]
+    },
+    {
+        "title": "Mauro Sebaste 2009 Santa Rosalia  (Dolcetto d'Alba)",
+        "keywords": [
+            "integrity",
+            "spice",
+            "touch"
+        ]
+    },
+    {
+        "title": "Fattoria della Talosa 2010 Riserva  (Vino Nobile di Montepulciano)",
+        "keywords": [
+            "warmth",
+            "plum",
+            "extract"
+        ]
+    },
+    {
+        "title": "Casanova di Neri 2008 Tenuta Nuova  (Brunello di Montalcino)",
+        "keywords": [
+            "spice",
+            "dried",
+            "aromas"
+        ]
+    },
+    {
+        "title": "Bortolomiol 2012 Bandarossa Millesimato Extra Dry  (Prosecco di Valdobbiadene Superiore)",
+        "keywords": [
+            "citrus",
+            "followed",
+            "grapefruit"
+        ]
+    },
+    {
+        "title": "Masseria Altemura 2007 Sasseo Primitivo (Salento)",
+        "keywords": [
+            "flavors",
+            "manages",
+            "room"
+        ]
+    },
+    {
+        "title": "Abbazia di Novacella 2013 Pinot Grigio (Alto Adige Valle Isarco)",
+        "keywords": [
+            "flower",
+            "fragrances",
+            "apple"
+        ]
+    },
+    {
+        "title": "Antica Corte 2006 Alfio Moriconi Selection  (Valpolicella Classico Superiore Ripasso)",
+        "keywords": [
+            "cherry",
+            "'s",
+            "earth"
+        ]
+    },
+    {
+        "title": "Alois Lageder 2007 Benefizium Porer Pinot Grigio (Alto Adige)",
+        "keywords": [
+            "touch",
+            "fruit",
+            "summertime"
+        ]
+    },
+    {
+        "title": "Nada Giuseppe 2011 Mai Pi\u00f9 Riserva  (Barbaresco)",
+        "keywords": [
+            "spice",
+            "aromas",
+            "offers"
+        ]
+    },
+    {
+        "title": "Monchiero 2006 Roere  (Barolo)",
+        "keywords": [
+            "campfire",
+            "stuffed",
+            "charred"
+        ]
+    },
+    {
+        "title": "Canti 2011 Pinot Grigio (Veneto)",
+        "keywords": [
+            "freshwater",
+            "delivers",
+            "melon"
+        ]
+    },
+    {
+        "title": "Paolo Scavino 2012 Bricco Ambrogio  (Barolo)",
+        "keywords": [
+            "notes",
+            "lead",
+            "provide"
+        ]
+    },
+    {
+        "title": "Fattoria Del Cerro 2009  Vino Nobile di Montepulciano",
+        "keywords": [
+            "cherry",
+            "lasagna",
+            "pair"
+        ]
+    },
+    {
+        "title": "Brigaldara 2008  Valpolicella",
+        "keywords": [
+            "offers",
+            "cherry",
+            "sausage"
+        ]
+    },
+    {
+        "title": "Tiziano Mazzoni 2011 Ai Livelli  (Ghemme)",
+        "keywords": [
+            "support",
+            "tannins",
+            "Made"
+        ]
+    },
+    {
+        "title": "Latium di Morini 2003 Campo Le\u00f2n  (Amarone della Valpolicella)",
+        "keywords": [
+            "fruit",
+            "spice",
+            "aromas"
+        ]
+    },
+    {
+        "title": "Carpineto 2015  Chianti Classico",
+        "keywords": [
+            "iris",
+            "aromas",
+            "earth"
+        ]
+    },
+    {
+        "title": "Fattoria La Lecciaia 2009 Riserva  (Brunello di Montalcino)",
+        "keywords": [
+            "plum",
+            "dried",
+            "delivers"
+        ]
+    },
+    {
+        "title": "Le Vigne di Alice NV Doro Brut  (Conegliano Valdobbiadene Prosecco Superiore)",
+        "keywords": [
+            "keeping",
+            "light",
+            "lime"
+        ]
+    },
+    {
+        "title": "Geografico Castello Tricerchi 2007  Brunello di Montalcino",
+        "keywords": [
+            "granite",
+            "tones",
+            "backbone"
+        ]
+    },
+    {
+        "title": "Grattamacco 2008  Bolgheri Superiore",
+        "keywords": [
+            "tones",
+            "fat",
+            "texture"
+        ]
+    },
+    {
+        "title": "La Fusina 2014 Gombe  (Dogliani)",
+        "keywords": [
+            "delivers",
+            "cranberry",
+            "ground"
+        ]
+    },
+    {
+        "title": "Cafaggio 2010 Basilica del Pruneto Merlot (Toscana)",
+        "keywords": [
+            "provide",
+            "tobacco",
+            "Firm"
+        ]
+    },
+    {
+        "title": "Poderi Colla 2011 Roncaglie  (Barbaresco)",
+        "keywords": [
+            "Drink",
+            "perfumed",
+            "balanced"
+        ]
+    },
+    {
+        "title": "Sansonina 2012  Lugana",
+        "keywords": [
+            "acidity",
+            "fruit",
+            "lemon"
+        ]
+    },
+    {
+        "title": "Cavit 2010 Bottega Vinaia  (Teroldego Rotaliano)",
+        "keywords": [
+            "areas",
+            "located",
+            "tobacco"
+        ]
+    },
+    {
+        "title": "Barone Pizzini 2004 Bagnadore Brut Nature Millesimato Sparkling (Franciacorta)",
+        "keywords": [
+            "almond",
+            "finish",
+            "baked"
+        ]
+    },
+    {
+        "title": "Colle dei Bardellini 2007 U Munte Vermentino (Riviera Ligure di Ponente)",
+        "keywords": [
+            "herbs",
+            "chopped",
+            "close"
+        ]
+    },
+    {
+        "title": "Montresor 2011  Amarone della Valpolicella",
+        "keywords": [
+            "freshness",
+            "forest",
+            "offers"
+        ]
+    },
+    {
+        "title": "Poggio al Tesoro 2010 Dedicato a Walter Cabernet Franc (Toscana)",
+        "keywords": [
+            "aromas",
+            "graphite",
+            "tobacco"
+        ]
+    },
+    {
+        "title": "Conterno Fantino 2014 Vignota  (Barbera d'Alba)",
+        "keywords": [
+            "blackberry",
+            "pleasure",
+            "jump"
+        ]
+    },
+    {
+        "title": "Antolini 2008 Ca' Coato  (Amarone della Valpolicella Classico)",
+        "keywords": [
+            "rises",
+            "mouthfeel",
+            "bean"
+        ]
+    },
+    {
+        "title": "Giacosa Fratelli 2011  Nebbiolo d'Alba",
+        "keywords": [
+            "raspberry",
+            "aromas",
+            "closed"
+        ]
+    },
+    {
+        "title": "Decugnano dei Barbi 2013 Il Bianco  (Orvieto Classico)",
+        "keywords": [
+            "peach",
+            "herb",
+            "aromas"
+        ]
+    },
+    {
+        "title": "Fattori 2008 Motto Piane  (Soave)",
+        "keywords": [
+            "expression",
+            "candied",
+            "fruit"
+        ]
+    },
+    {
+        "title": "Ronca 2008 C\u00e0mi Garganega (Veronese)",
+        "keywords": [
+            "minutes",
+            "loads",
+            "glass"
+        ]
+    },
+    {
+        "title": "Fattoria Fibbiano 2007  Chianti Superiore",
+        "keywords": [
+            "clove",
+            "opens",
+            "berry"
+        ]
+    },
+    {
+        "title": "Venturini Massimino 2005 Riserva  (Amarone della Valpolicella Classico)",
+        "keywords": [
+            "resin",
+            "plum",
+            "backbone"
+        ]
+    },
+    {
+        "title": "Nicosia 2010 Fondo Filara Catarratto (Sicilia)",
+        "keywords": [
+            "include",
+            "mango",
+            "grapefruit"
+        ]
+    },
+    {
+        "title": "St. Pauls 2013 Pinot Grigio (Alto Adige)",
+        "keywords": [
+            "depth",
+            "fruit",
+            "palate"
+        ]
+    },
+    {
+        "title": "Bisceglia 2007 Terra di Vulcano Falanghina (Campania)",
+        "keywords": [
+            "peach",
+            "fruit",
+            "aromas"
+        ]
+    },
+    {
+        "title": "Belisario 2012 Vigneti del Cerro  (Verdicchio di Matelica)",
+        "keywords": [
+            "citrus",
+            "palate",
+            "fruit"
+        ]
+    }
+]
